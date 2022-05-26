@@ -1,7 +1,7 @@
-# Mobile Interface Flutter - Spiritual Retreats
+# Mobile Interface Flutter - Betta Fish
 
 ## Introduction
-The mobile display has five pages with a similar appearance, there are page indicators, place names, place reviews, and descriptions of spiritual tourist attractions. The interesting thing about the appearance of this application is that there are animations on each page element when the page is opened.
+The mobile display has two pages, one for the main menu page which will display all types of betta fish with existing categories. then on the detail page displays the name, type, and full description of the fish. The interesting thing about the appearance of this application is the animation when sliding from one page to another.
 
-## Spiritual Retreats App Final UI
-![UI SPIRITUAL RETREATS](https://user-images.githubusercontent.com/38379100/170467392-4c946436-55a2-4f6f-bbfb-9f791e0e4b12.png)
+## Betta Fish App Final UI
+![UI BETTAFISH](https://user-images.githubusercontent.com/38379100/170467987-6af51981-58a7-4bd3-9a85-3b7bc9ebe46b.png)
